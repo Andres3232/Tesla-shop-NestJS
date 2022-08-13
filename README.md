@@ -15,3 +15,7 @@ docker-compose up -d
 ```
 yarn start:dev
 ```
+7. Ejecutar seed
+```
+localhost:3000/api/seed
+```
